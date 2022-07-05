@@ -1,17 +1,6 @@
-###  Mech 540A 
-
-### Assignment : 7
-
-------
-
-**This project is created for Mech 540A Assignment -7; **
-
-**Objective of the assignment is to create a complex number class that can create and perform mathematical operations on complex numbers for any given size of matrix.**
+**Objective of the project is to create a complex number class that can create and perform mathematical operations on complex numbers for any given size of matrix.**
 
 * **Name** : **Nalla Ajay**
-* **Student ID**: **49640014**
-
-
 
 ----
 

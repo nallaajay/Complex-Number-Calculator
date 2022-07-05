@@ -1,8 +1,7 @@
-﻿///  Mech 540-A  :  Assignment-7 with feature any size and feature element wise
+///  Assignment-7 with feature any size and feature element wise
 ///
 ///  Name        :  Ajay Nalla
-///  Student ID  :  49640014
-///  Source file :  complex_number_assignment_7.cs
+///  Source file :  main.cs
 ///  Purpose     :  To create a complex number class. 
 ///                 Contains complex_number_class and complex_number_assignment_7 namespaces.
 ///  Description :  Contains classes 
